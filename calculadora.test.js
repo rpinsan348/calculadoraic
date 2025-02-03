@@ -9,7 +9,7 @@ test('Resta 5 - 3 y devuelve 2', () => {
 });
 
 test('Multiplicar 5 * 3 y devuelve 15', () => {
-    expect(multiplicar(5, 3)).toBe(10);
+    expect(multiplicar(5, 3)).toBe(15);
 });
 
 test('Divide 6 / 2 y devuelve 3', () => {
