@@ -44,7 +44,8 @@ deploy:
     uses: JamesIves/github-pages-deploy-action@v4
     with:
      branch: gh-pages
-     branch: gh-pages          folder: public
+     branch: gh-pages          
+     folder: public
 
 
       
