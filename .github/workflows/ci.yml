@@ -23,6 +23,7 @@ jobs:
 
       - name: Ejecutar pruebas
         run: npm test
+        
 deploy:
  needs: test
  runs-on: ubuntu-latest
